@@ -1,0 +1,4 @@
+INSERT INTO `dede_flink` VALUES('1','1','http://www.dede58.com','织梦模板','','','','1483840441','1','2');
+INSERT INTO `dede_flink` VALUES('2','1','http://www.adashuo.com/','响应式织梦模板','','','','1483840450','1','2');
+INSERT INTO `dede_flink` VALUES('3','1','http://www.dede58.com/host/','织梦主机','','','','1483840458','1','2');
+INSERT INTO `dede_flink` VALUES('4','1','http://www.sucai58.com/','建站素材','','','','1483840467','1','2');

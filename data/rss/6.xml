@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>banner</title>
+<link>http://238274.ichengyun.net//a/ban/</link>
+<description>banner</description>
+<language>zh-cn</language>
+<generator><![CDATA[Copyright © 2010-2014 版权所有 上海电脑维修|上海IT外包（上海洲佑信息科技有限公司）]]></generator>
+<webmaster>desdev@vip.qq.com</webmaster>
+<item>
+    <title><![CDATA[幻灯3]]></title>
+    <link>http://238274.ichengyun.net//a/ban/11.html</link>
+    <description><![CDATA[]]></description>
+    <pubDate>2017-01-08</pubDate>
+    <category>banner</category>
+    <author>admin</author>
+    <comments>未知</comments>
+</item>
+<item>
+    <title><![CDATA[幻灯2]]></title>
+    <link>http://238274.ichengyun.net//a/ban/10.html</link>
+    <description><![CDATA[]]></description>
+    <pubDate>2017-01-08</pubDate>
+    <category>banner</category>
+    <author>admin</author>
+    <comments>未知</comments>
+</item>
+<item>
+    <title><![CDATA[幻灯1]]></title>
+    <link>http://238274.ichengyun.net//a/ban/1.html</link>
+    <description><![CDATA[]]></description>
+    <pubDate>2017-01-08</pubDate>
+    <category>banner</category>
+    <author>admin</author>
+    <comments>未知</comments>
+</item>
+
+</channel>
+</rss>

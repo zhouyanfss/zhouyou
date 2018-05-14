@@ -1,0 +1,34 @@
+<?php
+$typeArr[1] = '关于我们';
+$typeArr[2] = '联系我们';
+$typeArr[3] = '新闻中心';
+$typeArr[4] = '成功案例';
+$typeArr[5] = '公司介绍';
+$typeArr[6] = 'banner';
+$typeArr[7] = '新闻资讯';
+$typeArr[20] = '门禁考勤';
+$typeArr[9] = '企业文化';
+$typeArr[10] = '产品代理';
+$typeArr[11] = '公司业务';
+$typeArr[12] = '网站地图';
+$typeArr[13] = '安防监控';
+$typeArr[16] = '医院弱电';
+$typeArr[26] = 'IT外包';
+$typeArr[18] = '安防弱电';
+$typeArr[19] = 'IT系统集成';
+$typeArr[21] = '电子围栏';
+$typeArr[22] = '综合布线';
+$typeArr[23] = '视频会议';
+$typeArr[24] = '道闸管理';
+$typeArr[25] = '网站建设';
+$typeArr[27] = '摄像机代理';
+$typeArr[29] = '品牌电脑代理';
+$typeArr[30] = '网络设备代理';
+$typeArr[31] = '11';
+$typeArr[32] = '1';
+$typeArr[33] = '111';
+$typeArr[34] = '1111';
+$typeArr[35] = '11111';
+$typeArr[36] = '111111';
+$typeArr[37] = '2';
+?>

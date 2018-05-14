@@ -1,0 +1,1 @@
+INSERT INTO `dede_search_keywords` VALUES('1','医院弱电','医院弱电 医院 弱电','1','0','1483835911','0','0');

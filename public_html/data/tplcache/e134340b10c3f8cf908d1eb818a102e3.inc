@@ -1,0 +1,1 @@
+<div class="slide"><img src="[field:litpic/]" width="1900" height="488" alt="[field:title/]" title="[field:title/]"/></div>
