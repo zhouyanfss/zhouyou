@@ -1,7 +1,7 @@
 <?php
 $cfg_basehost = 'http://www.sandbless.com';
 $cfg_cmspath = '';
-$cfg_cookie_encode = 'xW6bAqWdKrprVuXkYFX4kPbt1DCHcA';
+$cfg_cookie_encode = 'YLEaUBwyoMuXHi5oGBfds7Ayc3xlCMw7';
 $cfg_indexurl = '/';
 $cfg_backup_dir = 'backupdata';
 $cfg_indexname = '主页';
